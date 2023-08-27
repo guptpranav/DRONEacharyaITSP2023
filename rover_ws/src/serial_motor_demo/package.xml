@@ -3,9 +3,9 @@
 <package format="3">
   <name>serial_motor_demo</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="josh.newans@gmail.com">newans</maintainer>
-  <license>TODO: License declaration</license>
+  <description>serial_motor_demo</description>
+  <maintainer email="pranavgupta53535@gmail.com">humble</maintainer>
+  <license>GPLv3</license>
 
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>

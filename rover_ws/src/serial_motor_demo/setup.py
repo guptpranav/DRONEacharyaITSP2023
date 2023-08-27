@@ -14,9 +14,9 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='newans',
-    maintainer_email='josh.newans@gmail.com',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    maintainer_email='pranavgupta53535@gmail.com',
+    description='serial_motor_demo',
+    license='GPLv3',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
