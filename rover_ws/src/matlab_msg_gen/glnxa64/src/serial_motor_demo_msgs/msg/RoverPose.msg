@@ -1,0 +1,2 @@
+float64 rover_x
+float64 rover_y

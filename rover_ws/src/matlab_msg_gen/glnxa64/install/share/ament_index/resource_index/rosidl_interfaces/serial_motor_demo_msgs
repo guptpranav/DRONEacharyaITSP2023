@@ -1,0 +1,8 @@
+msg/EncoderVals.idl
+msg/EncoderVals.msg
+msg/MotorCommand.idl
+msg/MotorCommand.msg
+msg/MotorVels.idl
+msg/MotorVels.msg
+msg/RoverPose.idl
+msg/RoverPose.msg

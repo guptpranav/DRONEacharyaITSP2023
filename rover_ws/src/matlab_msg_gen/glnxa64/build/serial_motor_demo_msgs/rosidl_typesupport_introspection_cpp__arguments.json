@@ -1,0 +1,25 @@
+{
+  "package_name": "serial_motor_demo_msgs",
+  "output_dir": "/home/pranav/Workspace/ITSP/rover_ws/src/matlab_msg_gen/glnxa64/build/serial_motor_demo_msgs/rosidl_typesupport_introspection_cpp/serial_motor_demo_msgs",
+  "template_dir": "/usr/local/MATLAB/R2023a/sys/ros2/glnxa64/ros2/share/rosidl_typesupport_introspection_cpp/resource",
+  "idl_tuples": [
+    "/home/pranav/Workspace/ITSP/rover_ws/src/matlab_msg_gen/glnxa64/build/serial_motor_demo_msgs/rosidl_adapter/serial_motor_demo_msgs:msg/EncoderVals.idl",
+    "/home/pranav/Workspace/ITSP/rover_ws/src/matlab_msg_gen/glnxa64/build/serial_motor_demo_msgs/rosidl_adapter/serial_motor_demo_msgs:msg/MotorCommand.idl",
+    "/home/pranav/Workspace/ITSP/rover_ws/src/matlab_msg_gen/glnxa64/build/serial_motor_demo_msgs/rosidl_adapter/serial_motor_demo_msgs:msg/MotorVels.idl",
+    "/home/pranav/Workspace/ITSP/rover_ws/src/matlab_msg_gen/glnxa64/build/serial_motor_demo_msgs/rosidl_adapter/serial_motor_demo_msgs:msg/RoverPose.idl"
+  ],
+  "target_dependencies": [
+    "/usr/local/MATLAB/R2023a/sys/ros2/glnxa64/ros2/lib/rosidl_typesupport_introspection_cpp/rosidl_typesupport_introspection_cpp",
+    "/usr/local/MATLAB/R2023a/sys/ros2/glnxa64/ros2/lib/python3.9/site-packages/rosidl_typesupport_introspection_cpp/__init__.py",
+    "/usr/local/MATLAB/R2023a/sys/ros2/glnxa64/ros2/share/rosidl_typesupport_introspection_cpp/resource/idl__rosidl_typesupport_introspection_cpp.hpp.em",
+    "/usr/local/MATLAB/R2023a/sys/ros2/glnxa64/ros2/share/rosidl_typesupport_introspection_cpp/resource/idl__type_support.cpp.em",
+    "/usr/local/MATLAB/R2023a/sys/ros2/glnxa64/ros2/share/rosidl_typesupport_introspection_cpp/resource/msg__rosidl_typesupport_introspection_cpp.hpp.em",
+    "/usr/local/MATLAB/R2023a/sys/ros2/glnxa64/ros2/share/rosidl_typesupport_introspection_cpp/resource/msg__type_support.cpp.em",
+    "/usr/local/MATLAB/R2023a/sys/ros2/glnxa64/ros2/share/rosidl_typesupport_introspection_cpp/resource/srv__rosidl_typesupport_introspection_cpp.hpp.em",
+    "/usr/local/MATLAB/R2023a/sys/ros2/glnxa64/ros2/share/rosidl_typesupport_introspection_cpp/resource/srv__type_support.cpp.em",
+    "/home/pranav/Workspace/ITSP/rover_ws/src/matlab_msg_gen/glnxa64/build/serial_motor_demo_msgs/rosidl_adapter/serial_motor_demo_msgs/msg/EncoderVals.idl",
+    "/home/pranav/Workspace/ITSP/rover_ws/src/matlab_msg_gen/glnxa64/build/serial_motor_demo_msgs/rosidl_adapter/serial_motor_demo_msgs/msg/MotorCommand.idl",
+    "/home/pranav/Workspace/ITSP/rover_ws/src/matlab_msg_gen/glnxa64/build/serial_motor_demo_msgs/rosidl_adapter/serial_motor_demo_msgs/msg/MotorVels.idl",
+    "/home/pranav/Workspace/ITSP/rover_ws/src/matlab_msg_gen/glnxa64/build/serial_motor_demo_msgs/rosidl_adapter/serial_motor_demo_msgs/msg/RoverPose.idl"
+  ]
+}

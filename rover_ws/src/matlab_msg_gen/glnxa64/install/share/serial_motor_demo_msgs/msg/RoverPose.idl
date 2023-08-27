@@ -1,0 +1,14 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from serial_motor_demo_msgs/msg/RoverPose.msg
+// generated code does not contain a copyright notice
+
+
+module serial_motor_demo_msgs {
+  module msg {
+    struct RoverPose {
+      double rover_x;
+
+      double rover_y;
+    };
+  };
+};
